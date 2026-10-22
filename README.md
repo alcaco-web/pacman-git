@@ -1,4 +1,10 @@
 # Pac-Man
-> Pac-Man es un videojuego de acción ambientado en un laberinto; el jugador controla al personaje homónimo a través de un laberinto cerrado. El objetivo del juego es comer todos los puntos situados en el laberinto, evitando al mismo tiempo a cuatro fantasmas de colores —Blinky (rojo), Pinky (rosa), Inky (cian) y Clyde (naranja)— que persiguen a Pac-Man.
+> Pac-Man és un vídeo joc d'acció ambientat en un laberint; el jugador controla el personatge homònim a través d'un laberint tancat. L'objectiu del joc és menjar tots els punts situats al laberint, evitant alhora quatre fantasmes de colors —Blinky (vermell), Pinky (rosa), Inky (cian) i Clyde (taronja)— que persegueixen Pac-Man.
 
 **Autor:** [Alex Cano](https://github.com/alcaco-web/pacman-git)
+
+---
+
+[Jugar a Pac-Man online](https://pacmangratis.net/)
+
+![Captura de Pac-Man](pacman.png)
