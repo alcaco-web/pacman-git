@@ -11,7 +11,7 @@
 
 ---
 
-
 ## Els Fantasmes de Pac-Man
 
 - [Información sobre Blinky](blinky.md)
+- [Información sobre Blinky](pinky.md)
