@@ -8,3 +8,7 @@
 [Jugar a Pac-Man online](https://pacmangratis.net/)
 
 ![Captura de Pac-Man](pacman.png)
+
+---
+
+## Els Fantasmes de Pac-Man
