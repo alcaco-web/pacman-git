@@ -16,3 +16,4 @@
 - [Información sobre Blinky](blinky.md)
 - [Información sobre Pinky](pinky.md)
 - [Información sobre Inky](Inky.md)
+- [Información sobre Clyde](Clyde.md)
